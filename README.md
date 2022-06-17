@@ -78,4 +78,5 @@ Thermistor should care about power budget, and boosting, throttling, frequencies
 # Awesome list of possible backends
 - https://github.com/kitsunyan/intel-undervolt C with support for RAPL, configured through /etc file
 - https://github.com/georgewhewell/undervolt Python, understands ThrottleStop
-- 
+
+- Also, check out the [wiki]([url](https://github.com/matrach/thermistor/wiki)) if interested in reading random research-dumps.
