@@ -15,7 +15,7 @@ The project is mainly focused on mobile workstations/gaming laptops like Dell XP
 During an office day, a typical user of a mobile workstation may switch the way of operating their device between contexts, which implies different preferences. 
 
 **Docked** 
-  The device operates as a tower computer, a user may only care about *Fan loudness* to not disturb others (especially in case of very loud fan).
+  The device operates as a tower computer, a user may only care about *Fan loudness* to not disturb others (especially in case of very loud fan). The lid is usually closed.
   
 **Powered**
   The device is connected to mains power and used directly. User cares about:
