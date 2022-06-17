@@ -72,3 +72,9 @@ Thermistor should care about power budget, and boosting, throttling, frequencies
   - [ ] Test the effect of increasing thermal conductance to the bottom surface: vanilla, with external cooling pad, on lap.
   - [ ] Try to build detachable external heat sink for *docked* setup.
   - [ ] Build a gadget that recycles the heat.
+
+
+# Awesome list of possible backends
+- https://github.com/kitsunyan/intel-undervolt C with support for RAPL, configured through /etc file
+- https://github.com/georgewhewell/undervolt Python, understands ThrottleStop
+- 
