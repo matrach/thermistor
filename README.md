@@ -69,6 +69,7 @@ Thermistor should care about power budget, and boosting, throttling, frequencies
 - [ ] Detect anomalies to warn users when heat dissipation is far from expected.
 - [ ] Check the predictability of power-budgeting the battery.
 - [ ] Investigate the ways of increasing heat dissipation capacity:
+  - [ ] Make a benchmark for comparing cooling pads.
   - [ ] Test the effect of increasing thermal conductance to the bottom surface: vanilla, with external cooling pad, on lap.
   - [ ] Try to build detachable external heat sink for *docked* setup.
   - [ ] Build a gadget that recycles the heat.
